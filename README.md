@@ -15,5 +15,7 @@ The model demonstrates strong discriminatory power between default and non-defau
 ## Business Impact
 Enables lenders to identify high-risk applicants early, improve approval decisions, and reduce non-performing assets.
 
-## Tech Stack
-Python, Pandas, NumPy, Scikit-learn
+## Skills
+Python | Pandas | NumPy | Scikit-learn | EDA | Feature Engineering | Model Evaluation
+
+Connect on LinkedIn: https://www.linkedin.com/in/pallavi-jindal-1a000786
